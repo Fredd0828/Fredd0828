@@ -1,16 +1,39 @@
-## Hi there 👋
+## ¡Hola! 👋 Soy Fredd
 
-<!--
-**Fredd0828/Fredd0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desarrollador en proceso** | 🚀 **Apasionado por la programación y la contabilidad**  
+📚 Enfocado en aprender C#, ASP.NET y certificaciones en Azure  
+🎥 Compartiendo progreso y conocimientos en TikTok  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías y Herramientas
+- **Lenguajes:** C#, SQL, Java (en progreso)
+- **Frameworks:** ASP.NET (aprendiendo), Windows Forms
+- **Herramientas:** Visual Studio Community, Git, phpMyAdmin  
+
+---
+
+## 📂 Proyectos Destacados
+- **[En proceso...](#)**  
+  Pronto verás información aqui...
+
+- **[En proceso...](#)**  
+  Pronto verás información aqui...
+
+- **[En proceso...](#)**  
+  Pronto verás información aqui...
+
+---
+
+## 🌟 Metas Actuales
+- **Desarrollo:** Finalizar aprendizaje en C# y ASP.NET  
+- **Certificaciones:** Obteniendo certificaciones en Azure  
+- **Personales:** Aprender inglés nivel A1 y aumentar mis ingresos  
+
+---
+
+## 📬 ¡Conecta conmigo!
+- **TikTok:** [@fredd_criv](#)  
+- **Correo:** [freddy_jcarrillor@soy.sena.edu.co](mailto:fcontable@outlook.es)  
+- **LinkedIn:** [fredd_criv](#)
+
