@@ -36,5 +36,5 @@
 ## 📬 ¡Conecta conmigo!
 - **TikTok:** [@fredd_criv](#)  
 - **Correo:** [freddy_jcarrillor@soy.sena.edu.co](mailto:fcontable@outlook.es)  
-- **LinkedIn:** [fredd_criv](#)
+
 
