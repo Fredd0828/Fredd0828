@@ -1,4 +1,4 @@
-## ¡Hola! 👋 Soy Fredd
+## ¡Hola! 👋 Soy Freddy
 ![Image](https://github.com/user-attachments/assets/fb9d806f-75d5-467c-95fd-a5c43954434c)
 
 🎯 **Desarrollador en proceso** | 🚀 **Apasionado por la programación y la contabilidad**  
